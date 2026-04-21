@@ -1,4 +1,4 @@
-FINAL README (COPY THIS)
+FINAL README 
 # Haulage Truck Management System
 
 ## Overview
